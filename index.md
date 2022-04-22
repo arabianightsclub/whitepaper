@@ -1,38 +1,35 @@
 ---
-title: Welcome
+title: Overview
 ---
 
-This is the **Edition** template from [CloudCannon](http://cloudcannon.com/).
-**Edition** is perfect for documenting your product, application or service.
-It's populated with example content to give you some ideas.
+**Arabian Nights Club is the world's first Web3 DAO Community Platform Protocol serving as a decentralized drama studio and community treasury equipped themselves with NFTs in the form of LAMP.** A community treasury that includes both fans and creators ensures two key features: One, gatekeeping power is decentralized to an undeniably diverse group with a passion for the content being made, and Two, it engages audience members in ways that would turn social media stars green with envy, as these fans-turned-investors are now activated as that asset’s greatest form of marketing and distribution. 
 
-ChatApp is a fictional chat application for sending messages and media to others.
-Teams and friend groups would use ChatApp to stay up to date if it existed.
+**LAMP NFT** represents a shift in the ownership of IP from the centralized studio to a community where creators, the fans, the crew, and the investors control the contents and not just the few at the top of industry. Our aim is to connect the public to Web 3.0 and share on the upside of the residuals of drama on a long-term basis, while simultaneously untangling opaque financial accounts through LAMP in the quest for greater transparency. 
 
-> [Sign up](http://example.com/signup) or learn more about ChatApp at [example.com](http://example.com/).
+> [Sign up](http://www.arabianightsclub.com/signup) or learn more about LAMP at [arabianightsclub.com](http://www.arabianightsclub.com).
 
 ### Getting Started
 
-Getting a message sent is quick and easy with ChatApp:
+To start, you need to become a member of Arabian Nights Club. 
 
-1. Sign up for an account
-2. Add your friends from their email addresses
-3. Type a message or send a photo
-
-> Feel free to send us a message at [feedback@example.com](mailto:feedback@example.com) with your feedback.
+1. Purchase your LAMP  
+2. Join Discord and follow us on Twitter
+3. Get your verification code to enter the Club
 
 ### Features
 
-Explore more of ChatApp by reading about our features:
+Explore more of LAMP by reading about our features:
 
-#### Media
+#### How it Works
 
-Send images, videos and other media to people. Sources include your computer, phone and Facebook.
+When LAMP is minted, the value of each Attribute will be chosen within the min. and max. values according to LAMP quality.
 
-#### Contact Syncing
+#### Tokenomics
 
-Sync your contact list with your phone and/or Facebook contacts. Never lose your contacts between devices again!
+Token: LAMP
 
-#### Devices
+For LAMP token distribution and vesting schedule, please visit [arabianightsclub.com](http://www.arabianightsclub.com) for more detail.
 
-ChatApp is available everywhere. Find out how to set it up on your all your devices.
+#### Other System
+
+Arabian Nights Club is an invite-only. You can hold ONE activation code at a time, until it is used.
