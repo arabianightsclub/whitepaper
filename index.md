@@ -30,6 +30,6 @@ Token: LAMP
 
 For LAMP token distribution and vesting schedule, please visit [arabianightsclub.com](http://www.arabianightsclub.com) for more detail.
 
-#### Other System
+#### Activation Code
 
 Arabian Nights Club is an invite-only. You can hold ONE activation code at a time, until it is used.
