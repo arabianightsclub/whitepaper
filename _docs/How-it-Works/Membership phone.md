@@ -17,6 +17,8 @@ After getting access to our [Discord](http://www.discord.com/arabianightsclub), 
 Congrats! You are all set. 
 
 
+
+
 **Members-Only Perks**
 
 Each tier of LAMP NFT comes with different voting power for all of the content we create in the Club as well as different level of acknowledgment in drama, the first of which is cast and crew credits. Future areas and perks can be unlocked by the community through roadmap activation.
