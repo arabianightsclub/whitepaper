@@ -2,6 +2,7 @@
 title: features
 category: how it works
 order: 1
+permalink:/whitepaper/_docs/how-it-works/features
 ---
 
 ### LAMP Type
