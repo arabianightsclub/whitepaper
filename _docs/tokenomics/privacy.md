@@ -1,6 +1,6 @@
 ---
-title: Privacy
-category: Tokenomics
+title: privacy
+category: tokenomics
 order: 3
 ---
 
@@ -76,7 +76,9 @@ Macro Risks
 
 1.6 No Further Information or Update 
 No person has been or is authorised to give any information or representation not contained in this Whitepaper in connection with the Tokens, the Platform, the Company or its Affiliates and their respective businesses and operations, and, if given, such information or representation must not be relied upon as having been authorised by or on behalf of the Company or its Affiliates. 
+
 1.7 Language
 This Whitepaper may be translated into other languages. If any disagreement should arise due to different language translations, the version in English will prevail.
+
 1.8 No Advice 
 No information in this Whitepaper should be considered to be business, legal, financial or tax advice regarding the Token, the Platform, the Company or its Affiliates. You should consult your own legal, financial, tax or other professional advisor(s) regarding the Token, the Company or its Affiliates and their respective businesses and operations. You should be aware that you may be required to bear the financial risk of any purchase of the Tokens for an indefinite period of time.
