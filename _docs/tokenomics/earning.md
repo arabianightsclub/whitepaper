@@ -1,6 +1,6 @@
 ---
-title: Earning Mechanics
-category: Tokenomics
+title: earning
+category: tokenomics
 order: 2
 ---
 
