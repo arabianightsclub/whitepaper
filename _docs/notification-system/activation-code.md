@@ -1,6 +1,6 @@
 ---
-title: Activation Code
-category: Notification System
+title: activation code
+category: notification system
 order: 1
 ---
 
