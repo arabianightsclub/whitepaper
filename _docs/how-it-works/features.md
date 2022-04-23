@@ -1,6 +1,6 @@
 ---
-title: Features
-category: How it Works
+title: features
+category: how it works
 order: 1
 ---
 
