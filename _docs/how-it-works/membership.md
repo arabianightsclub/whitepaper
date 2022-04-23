@@ -30,5 +30,3 @@ Each tier of LAMP NFT comes with different voting power for all of the content w
 3. **Writer's Room**: LAMP pairs Writer's Room members with big-name creatives. You get exclusive admission to Writing's Room to *create-your-own-character* in drama. Your name will be featured in the acknowledgments of the drama written by the Writer's Room. 
 
 4. **Profit Sharing**: You get special chance to license approved contents in exchange for a licensing fee. We will be publishing a free use licensing agreement that any LAMP holders can use to make partnerships with the dramas. When it comes time to make disbursements, we will make them in accordance to the terms you and your partner input into the signed agreement. 
-
-![](//placehold.it/800x600)
