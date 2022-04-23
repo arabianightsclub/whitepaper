@@ -1,6 +1,6 @@
 ---
-title: Trade and Rental
-category: Notification System
+title: trade and rental
+category: notification system
 order: 2
 ---
 
