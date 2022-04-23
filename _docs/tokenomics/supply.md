@@ -1,10 +1,10 @@
 ---
-title: LAMP
-category: Tokenomics
+title: supply
+category: tokenomics
 order: 1
 ---
 
-**Supply and Earning**
+**Supply**
 
 LAMP has limited supply. 100 LAMP were minted. 
 
