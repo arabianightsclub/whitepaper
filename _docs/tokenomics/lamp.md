@@ -14,5 +14,3 @@ LAMP has limited supply. 100 LAMP were minted.
 **Definition** 
 
 Token: LAMP 
-
-![](//placehold.it/800x600)
