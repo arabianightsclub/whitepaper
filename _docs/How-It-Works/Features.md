@@ -4,12 +4,13 @@ category: How it Works
 order: 1
 ---
 
-### LAMP Quality
-There are four LAMP qualities. As such, even LAMPs of the same quality may have vastly different Attribute distributions.
+### LAMP Type
+
+There are four types of LAMP. As such, even LAMPs of the same quality may have vastly different Attribute distributions.
 
 <div class="code-example" markdown="1">
 
-| Quality      | Min. Attribute   | Max. Attribute   | Level Up      |
+| Type         | Min. Attribute   | Max. Attribute   | Level Up      |
 |:-------------|:-----------------|:-----------------|:--------------|
 | Loyal        | 1                | 10               | 4             |
 | Super        | 8                | 35               | 6             |
