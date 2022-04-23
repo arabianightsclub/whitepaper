@@ -80,5 +80,3 @@ No person has been or is authorised to give any information or representation no
 This Whitepaper may be translated into other languages. If any disagreement should arise due to different language translations, the version in English will prevail.
 1.8 No Advice 
 No information in this Whitepaper should be considered to be business, legal, financial or tax advice regarding the Token, the Platform, the Company or its Affiliates. You should consult your own legal, financial, tax or other professional advisor(s) regarding the Token, the Company or its Affiliates and their respective businesses and operations. You should be aware that you may be required to bear the financial risk of any purchase of the Tokens for an indefinite period of time.
-
-![](//placehold.it/800x600)
