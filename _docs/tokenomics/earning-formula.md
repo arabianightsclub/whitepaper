@@ -29,5 +29,3 @@ For LAMP token distribution and vesting schedule, please visit http://www.arabia
 
 * It is mandatory requirement to have AT LEAST 3 LAMP in order to start earning LAMP. 
 Share video to your friends! Send videos from your computer, phone, camera or YouTube.
-
-![](//placehold.it/800x600)
