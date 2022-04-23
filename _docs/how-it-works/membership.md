@@ -1,6 +1,6 @@
 ---
-title: Membership
-category: How it Works
+title: membership
+category: how it works
 order: 2
 ---
 
@@ -15,9 +15,6 @@ All LAMP NFT holders need one activation code to join the Club.  Only existing m
 After getting access to our [Discord](http://www.discord.com/arabianightsclub), you will receive a verification code that you need to key in to enter the [Club](http://www.arabianightsclub.com/privatearea). 
 
 Congrats! You are all set. 
-
-
-
 
 **Members-Only Perks**
 
