@@ -11,7 +11,7 @@ LAMP has limited supply. 100 LAMP were minted.
 10,000 LAMP were created and locked in opensea, and more.
 
 
-Definition 
+**Definition** 
 
 Token: LAMP 
 
