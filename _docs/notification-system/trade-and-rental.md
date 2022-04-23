@@ -8,7 +8,6 @@ order: 2
 
 You can buy and sell LAMP NFT on opensea. Visit our website for latest updates. 
 
-
 **Rental System (Under Development)**
 
 The main barrier we face to onboarding LAMP holders into the Club is the complexity of the onboarding process. This starts with creating an Exchange Account, converting fiat to Cryptocurrency and navigating WEb3 with a Decentralized Wallet. We aim to breach this barrier by introducing a Rental System.
