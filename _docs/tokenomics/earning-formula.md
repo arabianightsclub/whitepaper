@@ -28,4 +28,3 @@ For LAMP token distribution and vesting schedule, please visit http://www.arabia
 * LAMP earning is only available to LAMPS that reaches to Level 30.
 
 * It is mandatory requirement to have AT LEAST 3 LAMP in order to start earning LAMP. 
-Share video to your friends! Send videos from your computer, phone, camera or YouTube.
