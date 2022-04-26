@@ -2,8 +2,8 @@
 # Site
 
 title: LAMP Whitepaper
-url: "http://arabianightsclub.github.io/whitepaper"
-baseurl: "" # the subpath of your site, e.g. /whitepaper
+url: "https://arabianightsclub.github.io/whitepaper"
+baseurl: "" the subpath of your site, e.g. /whitepaper
 google_analytics_key:
 show_full_navigation: true
 
